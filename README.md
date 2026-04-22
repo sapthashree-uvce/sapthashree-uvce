@@ -13,7 +13,9 @@
 - Building Beginner-friendly Python projects
 - Exploring AI/ML fundamentals
 ----
-
-
+## 📮 Connect With Me
+- GitHub : https://github.com/sapthashree-uvce
+- Linkendln : https://www.linkedin.com/in/saptha-shree-949604385?utm_source=share_via&utm_content=profile&utm_medium=member_android
+----
 
 
