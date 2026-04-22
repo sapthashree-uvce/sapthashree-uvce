@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
+🚀 AI & Data Science Student @ UVCE'29
+📊 CGPA: 9.7
+🤖 Passionate about coding, problem solving, and building impactful tech
+----
+## 💻 Tech Stack
+Languages : Python | C | C++
+Tools: Git, GitHub, VS Code
+Interests: Cyber security, AI, Data Analysis
+-----
+## 🎯 What I'm Working on :
+Improving problem-solving skills
+Building Beginner-friendly Python projects
+Exploring AI/ML fundamentals
+----
 
-<!--
-**sapthashree-uvce/sapthashree-uvce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
