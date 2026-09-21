@@ -1,6 +1,6 @@
 # Hi there 👋
 - 🚀 AI & Data Science Student @ UVCE'29
-- 📊 CGPA: 9.7
+- 📊 CGPA: 9.67
 - 🤖 Passionate about coding, problem solving, and building impactful tech
 ----
 ## 💻 Tech Stack
